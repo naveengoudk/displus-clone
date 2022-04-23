@@ -1,0 +1,7 @@
+.home{
+ height: 100vh;
+ /* background: url(/public/images/home-background.png) fixed; */
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
